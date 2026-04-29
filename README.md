@@ -12,18 +12,6 @@ ShopZY is a fictional e-commerce company (think a smaller Amazon/Flipkart) that 
 
 ---
 
-## 🎯 What I Was Trying to Solve
-
-The core problem was simple: ShopZY was generating decent order volumes but the profitability story didn't add up. Leadership didn't have clear answers to questions like:
-
-- Which region is actually carrying the business?
-- Are our discounts helping or just eating into margins?
-- Why do monthly sales spike and crash with no clear pattern?
-
-So I set out to answer exactly those questions.
-
----
-
 ## 📊 The Dataset
 
 - **Type:** Simulated order-level dataset
