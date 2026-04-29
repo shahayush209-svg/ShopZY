@@ -1,4 +1,5 @@
 🛒 ShopZY — E-commerce Sales Optimization (Power BI)
+
 🚀 Project Overview
 This project simulates a real-world business scenario where ShopZY, a mid-sized e-commerce platform, struggles with:
 
